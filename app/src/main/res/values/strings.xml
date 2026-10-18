@@ -3,4 +3,7 @@
     <string name="name">Imię</string>
     <string name="email">E-mail</string>
     <string name="phone">Numer telefonu komórkowego</string>
+    <string name="hint_name">Imię</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_phone">Telefon</string>
 </resources>
